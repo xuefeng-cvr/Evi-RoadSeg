@@ -1,7 +1,7 @@
 # Evi-RoadSeg
-Code for paper: "Evidence-based Real-time Road Segmentation with RGB-D Data Augmentation" (road segmentation with both fast speed and state-of-the art accuracy)
+Code for paper: "Evidence-based Real-time Road Segmentation with RGB-D Data Augmentation" (road segmentation with both fast speed and state-of-the-art accuracy)
 
-This repository provides the implementation of Evi-RoadSeg in PyTorch, which is extended from [USNet](https://github.com/morancyc/USNet).
+This repository provides the implementation of Evi-RoadSeg in PyTorch, which is extended from [USNet](https://github.com/morancyc/USNet). The code and model for all datasets will be released as soon as the paper is accepted.
 
 The network structure of Evi-RoadSeg is shown as follows:
 
