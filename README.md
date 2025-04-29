@@ -189,7 +189,10 @@ Uploading the `result/kitti` images on the Kitti benchmark website, you will get
 ## Training
 
 **Before training**,
-please download the files for RGBD data augmentation from [google drive](https://drive.google.com/file/d/1z7AYE17qI8BtOJGxzMUaBs-rdTzHX04k/view?usp=sharing) and put `RGBD_DA_files` folder in the root path.
+please download the files for **RGBD data augmentation** from [google drive](https://drive.google.com/file/d/1z7AYE17qI8BtOJGxzMUaBs-rdTzHX04k/view?usp=sharing) and **shadow** files from [google drive](https://drive.google.com/file/d/17IVBmPhMX-6fzOviXvwk6WdKpF6QjK61/view?usp=sharing).
+Then, please put `RGBD_DA_files` folder in the root path and `shadow` folder in the KITTI root path.
+
+
 
 For training USNet on KITTI Road dataset, you can run:
 
